@@ -31,9 +31,10 @@ h1{
 
 .preview {
 	text-align: center;
-	width: 72%;
+	width: 40%;
 	float: left;
 	margin: 0 2%;
+	margin-left: 200px
 }
 
 .preview img{
