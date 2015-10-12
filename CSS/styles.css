@@ -40,3 +40,8 @@ h1{
 	width: 100%;
 	max-width: 100%;
 }
+
+div img p {
+	text-align: top;
+	float: left;
+}
